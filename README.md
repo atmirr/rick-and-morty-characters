@@ -1,7 +1,8 @@
 # Rick and Morty Characters
 
 This is a sample project which is done as a part of an assignment task for a company and is built by `Typescript`, `React`, `Redux`, `Redux Saga` and tested by `Jest`, `React Testing Library` and `Cypress`.
-You can see a [Live Demo](https://vigilant-bohr-5dc025.netlify.app) of this application.
+
+[Live Demo](https://vigilant-bohr-5dc025.netlify.app) is available!
 
 ## Available Scripts
 
