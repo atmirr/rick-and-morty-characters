@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Rick and Morty Characters
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a sample project which is done as a part of an assignment task for a company and is built by `Typescript`, `React`, `Redux`, `Redux Saga` and tested by `Jest`, `React Testing Library` and `Cypress`.
+You can see a [Live Demo](https://vigilant-bohr-5dc025.netlify.app) of this application.
 
 ## Available Scripts
 
